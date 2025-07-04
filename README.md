@@ -1,2 +1,0 @@
-# Objekterkennung
-Objekterkennung 
